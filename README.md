@@ -12,7 +12,7 @@ Portfolio of Alys Cooper's work, built in React and styled with Bulma.
 * As a user, I want to have a Web 1.0 option (think geocities)
 
 # Technology
-* Made in React, styled in Bulma
+* Made in React, styled in Tailwind
 
 ## Available Scripts
 
