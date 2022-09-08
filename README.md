@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Alys's Portfolio
+Portfolio of Alys Cooper's work, built in React and styled with Bulma.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# User Stories
+* As a user, I want to view Alys's contact info
+* As a user, I want to have a form where I can contact them.
+* As a user, I want to download Alys's incredible resume.
+* As a user, I want to view all of their projects on a page.
+* As a user, I want to view a single project in more detail.
+* As a user, I want to view an about-me section.
+* As a user, I want to have a dark mode option.
+* As a user, I want to have a Web 1.0 option (think geocities)
+
+# Technology
+* Made in React, styled in Bulma
 
 ## Available Scripts
 
