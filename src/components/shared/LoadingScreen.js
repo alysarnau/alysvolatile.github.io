@@ -1,7 +1,7 @@
 const LoadingScreen = () => (
-    <div>
+    <section>
         Here is the loading screen component.
-    </div>
+    </section>
 )
 
 export default LoadingScreen

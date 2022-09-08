@@ -1,13 +1,13 @@
 import { Fragment } from "react"
 
 const Header = () => (
-    <Fragment class="hero">
+    <section class="hero is-primary">
         <div class="hero-body">
             <p class="title">
                 Here is the Header!
             </p>
         </div>
-    </Fragment>
+    </section>
 )
 
 export default Header
