@@ -1,5 +1,6 @@
 import LoadingScreen from '../shared/LoadingScreen'
 import { Link } from 'react-router-dom'
+import 'bulma/css/bulma.min.css';
 import { 
     useState, 
     useEffect 
@@ -13,10 +14,9 @@ const cardContainerStyle = {
 
 const ProjectsIndex = () => {
     // this will let us set up the projects
-    const [projects, setProjects] = useState(null)
     const [error, setError] = useState(false)
 
-    const portfolioProjects = [
+    const projects = [
         // this will be an array of objects
     ]
 
@@ -28,7 +28,9 @@ const ProjectsIndex = () => {
     if (!projects) {
         return <LoadingScreen />
     } else if (projects.length === 0) {
-        return <p>Error!</p>
+        return <div class="box">
+                Error! There aren't any projects here.
+            </div>
     }
 
     return (
