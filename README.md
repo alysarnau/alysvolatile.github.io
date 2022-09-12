@@ -6,7 +6,7 @@ Portfolio of Alys Cooper's work, built in React and styled with Bulma.
 * As a user, I want to have a form where I can contact them.
 * As a user, I want to download Alys's incredible resume.
 * As a user, I want to view all of their projects on a page.
-* As a user, I want to view a single project in more detail.
+* As a user, I want to click on a project and then expand the pane to view that single project in more detail.
 * As a user, I want to view an about-me section.
 * As a user, I want to have a dark mode option.
 * As a user, I want to have a Web 1.0 option (think geocities)
