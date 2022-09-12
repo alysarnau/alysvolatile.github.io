@@ -7,7 +7,6 @@ import Projects from './components/Projects'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 import TimeMachine from './components/TimeMachine'
-import 'bulma/css/bulma.min.css';
 
 function App() {
 

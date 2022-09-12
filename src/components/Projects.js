@@ -43,9 +43,16 @@ const Projects = () => {
         }
     ]
 
+    const portfolioCards = portfolioProjects.map(project => (
+        <li>{ project }</li>
+    ))
+
     return (
         <section>
-            This is the projects component.
+            This is the projects component. they will be listed below!
+            <ul>
+                <li>like here, for example</li>
+            </ul>
         </section>
     )
 }
