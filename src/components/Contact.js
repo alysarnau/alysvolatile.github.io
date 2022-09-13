@@ -1,6 +1,6 @@
 const Contact = () => (
     <section>
-        Here is the contact me component!
+        <a id="contact_me">Here is the contact me component!</a>
     </section>
 )
 

@@ -49,7 +49,7 @@ const Projects = () => {
 
     return (
         <section>
-            This is the projects component. they will be listed below!
+            <a id="projects">This is the projects component. they will be listed below!</a>
             <ul>
                 <li>like here, for example</li>
             </ul>
